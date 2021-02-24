@@ -12,6 +12,8 @@ namespace StackQueue2021
         private int _buttom = 0;
         private int _numItems = 0;
 
+
+
         public MyQueueArray()
         {
             data = new T[DEFAULTSIZE];
